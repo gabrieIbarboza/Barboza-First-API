@@ -1,0 +1,13 @@
+package com.gabrieibarboza.barboza.firstapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BarbozaFirstApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BarbozaFirstApiApplication.class, args);
+	}
+
+}
