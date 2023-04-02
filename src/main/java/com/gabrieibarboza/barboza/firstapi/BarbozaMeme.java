@@ -35,6 +35,9 @@ public class BarbozaMeme {
         return quote;
     }
 
+    public void setId(String id) {
+        this.id = id;
+    }
     
 
 }
